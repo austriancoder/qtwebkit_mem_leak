@@ -26,3 +26,13 @@ Yes, I am using Linux as main os for everything except serious
 audio work. But... yes it happes under Windows XP/7 too.
 
 I really hope to get this fixed in the next coming Qt release.
+
+# Screenshots
+
+# Leak
+
+(https://raw.githubusercontent.com/austriancoder/qtwebkit_mem_leak/master/leak.png)
+
+# No Leak
+
+(https://raw.githubusercontent.com/austriancoder/qtwebkit_mem_leak/master/no_leak.png)
