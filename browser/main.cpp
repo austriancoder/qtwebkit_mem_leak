@@ -1,5 +1,6 @@
 #include <QApplication>
 #include <QWebView>
+#include <QTimer>
 
 int main(int argc, char *argv[])
 {
@@ -8,6 +9,8 @@ int main(int argc, char *argv[])
 
     QApplication a(argc, argv);
     QWebView view;
+    QTimer::singleShot(60000 * 3, &a, &QApplication::quit);
+
     view.show();
     view.load(QUrl(argv[1]));
 
