@@ -31,8 +31,10 @@ I really hope to get this fixed in the next coming Qt release.
 
 # Leak
 
+![Leak]
 (https://raw.githubusercontent.com/austriancoder/qtwebkit_mem_leak/master/leak.png)
 
 # No Leak
 
+![No Leak]
 (https://raw.githubusercontent.com/austriancoder/qtwebkit_mem_leak/master/no_leak.png)
